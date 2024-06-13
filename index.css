@@ -1,0 +1,30 @@
+.container{
+    text-align: center;
+    margin-top: 5%;
+}
+
+#color-box{
+
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    position: relative;
+    left: 43%;
+    
+
+}
+
+#change-color-btn{
+   
+    
+    position: relative;
+    left: 42%;
+    margin-top: 3%;
+    margin-left: 1%;
+    background-color: #2b2b2b;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    padding: 10px 20px;
+}
